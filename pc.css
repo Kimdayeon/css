@@ -1,0 +1,7 @@
+html {
+    height:auto !important;
+    background: linear-gradient(to bottom, var(#ffffff), var(#ff6767), var(#ffac4e));
+}
+body {
+    background: transparent;
+}
